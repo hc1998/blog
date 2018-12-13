@@ -55,9 +55,12 @@ export default {
       .admin-router {
         width: 940px;
         // height: 700px;
+        text-align: left;
         margin-top: 40px;
         border-radius: 3px;
         padding: 24px;
+        overflow: hidden;
+        margin-bottom: 40px;
         background-color: #FFFFFF;
         box-shadow: 0 0 4px 0 rgba(17,21,28,0.1), 0 2px 14px 0 rgba(127,143,172,0.25);
       }
